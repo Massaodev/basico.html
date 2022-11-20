@@ -1,0 +1,154 @@
+#sub {
+    background-color: grey;
+
+}
+
+#atelier {
+    background: green;
+    align-content: center, cover;
+    color:red;
+}
+#Tecnologia{
+background-image: url(imagess/Tecnologia.jpeg);
+
+
+
+
+}
+h1 {
+    color: blue;
+    text-transform: capitalize;
+    text-indent: 10px;
+    /*lowercase td letra minuscula*/
+    /*uppercase td leta maiuscula*/
+    /*capitalize deixa td palavras com a primeira letra maiuscula*/
+
+}
+
+#html{
+    background-image: url(imagess/Massapizza.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+.Conteiner {
+    font-size: 20px;
+    width: 50vw;
+    background: red;
+}
+
+.inside {
+    font-size: 1rem;
+    width: 100px;
+    background: blue;
+    padding: 20px;
+}
+
+
+#base {
+    height: 100px;
+    background-color: purple;
+    color: white;
+    margin: 40px;
+}
+
+#base2{
+    height: 100px;
+    background-color: aqua;
+    color: white;
+    margin: 40px;
+}
+#Atelierr{
+color: red;
+background-image: url(imagess/Atelierr.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background
+height: 220px;
+margin: 5px;
+}
+#Atelierrr{
+color: blue;
+background-image: url(imagess/Atelierr.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+#Pizza{
+    color: aqua;
+background-image: url(imagess/Pizza.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+height: 220px;
+margin: 0px;
+}
+
+#conteiner {
+    height: 50px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.borda {
+    margin: 10px;
+    border-width: 10%;
+    height: 10px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 50%;
+
+
+}
+
+#borde {
+    border-width: 10px;
+    border-color: yellow;
+
+
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+
+}
+
+.dotter {
+    border-style: dotted;
+}
+
+.dashed {
+    border-style: dashed;
+}
+
+.solid {
+    border-style: solid;
+}
+
+.none {
+    border-style: none;
+}
+
+.hidden {
+    border-style: hidden;
+
+
+
+
+    /*em=25px*/
+    /*rem= faz referencia a fonte do elemento raiz*/
+    /*1vw=1% Largura*/
+    /*1vh=15 da Altura*/
+    /*vmin= referente a menor dimençao =ele altera a Altura ou Largura de uma janela de acordo com a menor */
+    /*vmax= referente a menor dimençao =ele Altera a Altura ou largura de uma janela de acordo com a maior*/
+    /*% = ele refere a quantidade igual ao melemento pai a q ele pertence*/
